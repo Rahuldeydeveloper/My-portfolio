@@ -1,9 +1,9 @@
-import Header from './components/header'
-import Hero from './components/Hero'
-import About from './components/about'
-import Skills from './components/Skills'
-import Contact from './components/Contact'
-import Footer from './components/Footer'
+import Header from './header'
+import Hero from './Hero'
+import About from './about'
+import Skills from './Skills'
+import Contact from './Contact'
+import Footer from './Footer'
 
 export default function Home() {
   return (
